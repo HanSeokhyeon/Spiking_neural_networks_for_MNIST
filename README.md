@@ -1,6 +1,7 @@
 # Spiking neural networks for MNIST
 
 Spiking neural networks are neural networks of the 3rd generation.
+See this paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7999227
 
 ## Requirements
 * Python 3.6
